@@ -1,0 +1,12 @@
+{
+    "name": "web_static",
+    "version": "1.0.0",
+    "engines": {
+        "node": ">=10"
+    },
+    "scripts": {
+        "serve": "superstatic ./files --port 9000 --host 127.0.0.1"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
